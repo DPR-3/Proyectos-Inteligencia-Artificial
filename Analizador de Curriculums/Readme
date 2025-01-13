@@ -1,0 +1,7 @@
+Los reclutadores pasan mucho tiempo revisando currículums para encontrar al mejor candidato para un puesto de trabajo. Dado que puede haber cientos de solicitudes para un solo puesto, este proceso se ha automatizado de varias formas, siendo la más común la coincidencia de palabras clave. Puedes crear un analizador de currículums con la ayuda de técnicas de inteligencia artificial y aprendizaje automático que pueda revisar la solicitud de un candidato e identificar candidatos calificados, filtrando a las personas que llenan su currículum con palabras clave innecesarias.
+
+Idea de proyecto: Puedes usar el conjunto de datos de currículum disponible en Kaggle para crear este modelo. Este conjunto de datos contiene solo dos columnas: el título del puesto y la información del currículum del candidato. Los datos están presentes en forma de texto y deben procesarse previamente; puedes usar la biblioteca NLTK Python para este proceso de preparación de datos. Luego, puedes crear un algoritmo de agrupamiento que agrupe palabras y habilidades estrechamente relacionadas que un candidato debe poseer en cada dominio. Se deben considerar las palabras que son similares en contexto (y no solo palabras clave). Puedes asignar una puntuación de ponderación final a cada currículum de 0 (menos favorable) a 10 (más favorable). Este es el proyecto más adecuado para principiantes si quieres aprender IA.
+
+Herramientas y bibliotecas: Python, NLTK
+
+Conjunto de datos: conjunto de datos de currículum de Kaggle

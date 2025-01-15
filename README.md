@@ -1,0 +1,1 @@
+Puedes crear un analizador de currículums con la ayuda de técnicas de inteligencia artificial y aprendizaje automático que pueda revisar la solicitud de un candidato e identificar candidatos calificados, filtrando a las personas que llenan su currículum con palabras clave innecesarias.
